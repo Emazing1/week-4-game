@@ -1,0 +1,40 @@
+.jumbotron {
+	background-color: #000000;
+	padding-bottom: 3px;
+	margin-top: -55px;
+	color: white;
+	text-align: center;
+}
+
+
+
+#randomNo {
+	font-size: 50px;
+	text-align: center;
+
+}
+
+#yourScore {
+	font-size: 50px;
+	text-align: center;
+
+}
+.win{
+	border-radius: 5px;
+	width: 10%;
+	border-style: solid;
+	border-color: green;
+	border-width: 3px
+	text-align:center;
+	float:right;
+	margin-right: 400px;
+}
+.lose{
+	border-radius: 5px;
+	width: 10%;
+	border-style: solid;
+	border-color: red;
+	border-width: 3px
+	float:left;
+	margin-left:400px;
+}
